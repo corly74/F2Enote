@@ -9,3 +9,19 @@
     <head>
   <link rel="stylesheet" href="animate.min.css">
 </head> 
+
+<p>
+  or use a CDN hosted version by CDNJS </p>
+
+```html
+<head>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.2/animate.min.css">
+</head>
+
+<h3>Animations</h3>
+<p>To animate an element, add the class animated to an element. You can include the class infinite for an infinite loop. Finally you need to add one of the following classes to the element:</p>
+
+First Header | Second Header| Second Header |Second Header |
+First Header | Second Header| Second Header |Second Header |
+Content from cell 1 | Content from cell 2
+Content in the first column | Content in the second column
