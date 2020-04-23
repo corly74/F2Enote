@@ -24,8 +24,9 @@
 <p>To animate an element, add the class animated to an element. You can include the class infinite for an infinite loop. Finally you need to add one of the following classes to the element:</p>
 
 
-Class Name    |         |        |           |
+Class Name    |   attention seekers      | 擷取關注       |           |
 ------------  | ------- | ------ | ----------
 `bounce`      | `flash` |`pulse` | `rubberBand`
  彈跳 | 閃爍    |放大再縮小原樣(上下)   | rubberBand:放大再縮小原樣(左右)
-Imperial Age  | 03:30 |1000  | 800 
+`wobble` | `jello` |`bounceIn`|`bounceInDown`
+wobble | 閃爍    |放大再縮小原樣(上下)   | rubberBand:放大再縮小原樣(左右)
