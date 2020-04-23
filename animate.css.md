@@ -34,8 +34,16 @@
 
    npm install wow.js
 ```
-
-
+<p>在body前面貼上以下js<p/>
+```js
+var wow = new WOW({
+      boxClass: 'wow',
+      animateClass: 'animated',
+      offset: 5,
+      mobile: true
+})
+wow.init();
+```
 
 
 
