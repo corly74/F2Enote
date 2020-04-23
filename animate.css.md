@@ -29,6 +29,7 @@
  <h3>WOW.js Usage</h3>
  
 [WOW.js github](https://github.com/graingert/WOW)
+[WOW.js 示範教學](https://www.ucamc.com/e-learning/javascript/220-%E7%B6%B2%E9%A0%81%E5%8B%95%E7%95%AB%E6%95%88%E6%9E%9Cwow-js-animate-css)
 
 <p>NPM</p>
 
