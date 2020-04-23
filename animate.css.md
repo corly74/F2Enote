@@ -55,12 +55,10 @@ var wow = new WOW(
 wow.init();
 ```
 <h3>wow.js 進階設定</h3>
-<p>
-data-wow-duration: 突現秒數
-data-wow-delay: 遲延秒數
-data-wow-offset: 位移
-data-wow-iteration: 重複次數(要一直重複的話可以用"infinite")</p>
-
+<p>data-wow-duration: 突現秒數<p>
+<p>data-wow-delay: 遲延秒數<p>
+<p>data-wow-offset: 位移<p>
+<p>data-wow-iteration: 重複次數(要一直重複的話可以用"infinite")<p>
 
 <h3>Animations</h3>
 <p>To animate an element, add the class animated to an element. You can include the class infinite for an infinite loop. Finally you need to add one of the following classes to the element:</p>
