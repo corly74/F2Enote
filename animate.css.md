@@ -21,7 +21,8 @@
 <h3>Animations</h3>
 <p>To animate an element, add the class animated to an element. You can include the class infinite for an infinite loop. Finally you need to add one of the following classes to the element:</p>
 
-First Header | Second Header
------------- | -------------
-Content from cell 1 | Content from cell 2
-Content in the first column | Content in the second column
+Age           | Time  | Food | Gold | Requirement
+--------------|:-----:|-----:| ----:|------------------------
+Feudal Age    | 02:10 |  500 |    0 | Dark Age building x 2
+Castle Age    | 02:40 |  800 |  200 | Feudal Age building x 2
+Imperial Age  | 03:30 | 1000 |  800 | Castle Age building x 2    
