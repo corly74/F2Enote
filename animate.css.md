@@ -24,8 +24,8 @@
 <p>To animate an element, add the class animated to an element. You can include the class infinite for an infinite loop. Finally you need to add one of the following classes to the element:</p>
 
 
-Class Name    |       | Food | Gold 
+Class Name    |       |      | 
 ------------  | ----  | ---  | ---  
-Feudal Age    | 02:10 |  500 |    0 
-Castle Age    | 02:40 |  800 |  200 
-Imperial Age  | 03:30 | 1000 |  800 
+bounce        | flash |pulse | rubberBand 
+Castle Age    | 02:40 |  800 | 200 
+Imperial Age  | 03:30 | 1000 | 800 
