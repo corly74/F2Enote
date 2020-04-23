@@ -27,5 +27,5 @@
 Class Name    |         |        |           |
 ------------  | ------- | ------ | ----------
 `bounce`      | `flash` |`pulse` | `rubberBand`
- <h5>彈跳</h5> | 閃爍    |放大再縮小原樣(上下)   | rubberBand:放大再縮小原樣(左右)
+ 彈跳 | 閃爍    |放大再縮小原樣(上下)   | rubberBand:放大再縮小原樣(左右)
 Imperial Age  | 03:30 |1000  | 800 
