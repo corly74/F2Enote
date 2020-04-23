@@ -1,0 +1,272 @@
+!
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta/css/bootstrap.min.css"
+    integrity="sha384-/Y6pD6FV/Vv2HJnA6t+vslU6fwYXjCFtcEpHbNJ0lyAFsXTsjBbfaDjzALeQsN6M" crossorigin="anonymous">
+  
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.2/animate.min.css">
+  <script src="./js/wow.min.js"></script>
+  <link rel="stylesheet" href="./css/animate.css">
+  <script src="https://kit.fontawesome.com/d038f356df.js"></script>
+</head>
+<script>
+  var wow = new WOW({
+      boxClass: 'wow',
+      animateClass: 'animated',
+      offset: 5,
+      mobile: true
+})
+wow.init();
+  </script>
+<style>
+  body {
+    font-family: Microsoft JhengHei;
+  }
+
+  /*border:solid 1px orange;*/
+
+
+  .outer {
+    width: 235px;
+    height: 235px;
+    
+    border: 1px solid orange;
+    
+    padding: 6px;
+    border-radius: 213px;
+
+  }
+
+  .outer_mask{
+  background: rgb(26, 26, 82);
+  
+  width: 220px;height: 220px;
+  border-radius:110px ;
+  
+ }
+
+
+  .bg-1{
+    
+    width:220px; height: 220px;
+    
+    border-radius:150px ;
+    background-image: url(./img/ielt.jpg);
+
+  }
+
+  .bg-1:hover {
+   opacity: 0.8;
+  
+  }
+
+ 
+
+  .bg-2 {
+   
+    background-image: url(./img/toefl.jpg);
+  }
+
+  .bg-2:hover {
+   opacity: 0.8;
+  }
+
+  .bg-3 {
+   
+
+    background-image: url(./img/Business.jpg);
+  }
+
+  .bg-3:hover {
+   opacity: 0.8;
+   
+  
+  }
+
+  .bg-4 {
+    
+
+    background-image: url(./img/Grammar.jpg);
+  }
+  .bg-4:hover {
+   opacity: 0.8;
+   
+  
+  }
+  .warming {
+    background-color: #fa9a20;
+  }
+
+  .warming:hover {
+    background-color: #ffc107;
+
+  }
+
+  a:hover {
+    background-color: #fa9a20;
+  }
+
+
+</style>
+
+<body>
+  <p>&nbsp;</p>
+  <p>&nbsp;</p>
+  <p>&nbsp;</p>
+  <p>&nbsp;</p>
+  <p>&nbsp;</p>
+  <p>&nbsp;</p>
+  <p>&nbsp;</p>
+  <p>&nbsp;</p>
+  <p>&nbsp;</p>
+  <p>&nbsp;</p>
+  <p>&nbsp;</p>
+  <p>&nbsp;</p>
+  <p>&nbsp;</p>
+  <p>&nbsp;</p>
+  <p>&nbsp;</p>
+  <p>&nbsp;</p>
+  <p>&nbsp;</p>
+  <p>&nbsp;</p>
+  <p>&nbsp;</p>
+  <p>&nbsp;</p>
+  <p>&nbsp;</p>
+  <p>&nbsp;</p>
+  <p>&nbsp;</p>
+  <p>&nbsp;</p>
+  <p>&nbsp;</p>
+  <p>&nbsp;</p>
+  <p>&nbsp;</p>
+  <p>&nbsp;</p>
+  <p>&nbsp;</p>
+  <p>&nbsp;</p>
+  <p>&nbsp;</p>
+  <p>&nbsp;</p>
+  <p>&nbsp;</p>
+  <p>&nbsp;</p>
+  <p>&nbsp;</p>
+  <div class="container wow fadeInDown" data-wow-offset="10" data-wow-duration="3s" >
+    <div class="row">
+      <div class="col-sm-3 col-w">
+        <div class="d-flex justify-content-center mt-3" style="  ">
+
+          <div class="outer  ">
+            <div class="outer_mask">
+            <div class="card-img-top bg-1 " style="">
+              
+            </div>
+          </div>
+         
+
+
+          </div>
+
+
+        </div>
+
+
+        <div class="card-body text-center text-w">
+          <h5 class="card-title  mt-2"><b>IELTS Beginner</b></h5>
+          <p class="card-text mb-5" style="height:100px">在雅思考試的口說，寫作，閱讀與聽力準備上，每一個課程都整合了關鍵的英語知識與應答的技巧，同時也著重在文法與單字的學習上...</p>
+          <h4 class="">$888</h4>
+          <div class="btn-group btn-group-sm mt-3" role="group" aria-label="Basic example">
+            <button type="button" class="btn warming">課程介紹</button>
+            <button type="button" class="btn btn-primary">加入購物車</button>
+            <button type="button" class="btn warming">開始課程</button>
+          </div>
+        </div>
+
+      </div>
+      <div class="col-sm-3 ">
+        <div class="d-flex justify-content-center mt-3" style="  ">
+          <div class="outer">
+            <div class="outer_mask">
+            <div class="card-img-top bg-2 " style="width:220px; height: 220px; border-radius:110px ;"></div>
+          </div>
+          </div>
+        </div>
+
+
+        <div class="card-body text-center">
+          <h5 class="card-title  mt-2"><b>托福 TOEFL</b></h5>
+          <p class="card-text mb-5" style="height:100px">Whygo英文擁有創新的教學方式及自行研發的專屬教材，已幫助無數學生在短時間內突破TOEFL 100。</p>
+          <h4 class="">$888</h4>
+          <div class="btn-group btn-group-sm mt-3" role="group" aria-label="Basic example">
+            <button type="button" class="btn warming">課程介紹</button>
+            <button type="button" class="btn btn-primary">加入購物車</button>
+            <button type="button" class="btn warming">開始課程</button>
+          </div>
+        </div>
+
+      </div>
+      <div class="col-sm-3 ">
+        <div class="d-flex justify-content-center mt-3" style="  ">
+          <div class="outer">
+            <div class="outer_mask">
+            <div class="card-img-top  bg-3" style="width:220px; height: 220px; border-radius:110px ;"> </div>
+          </div>
+          </div>
+        </div>
+
+
+        <div class="card-body text-center">
+          <h5 class="card-title mt-2"><b>商業英文</b></h5>
+          <p class="card-text mb-5" style="height:100px">Whygo英文的商業英文課程著重於商業英語技能的實務演練與跨文化的溝通,邏輯思考與辭彙表達，而非一般的文法單字練習。</p>
+          <h4 class="">$888</h4>
+          <div class="btn-group btn-group-sm mt-3" role="group" aria-label="Basic example">
+            <button type="button" class="btn warming">課程介紹</button>
+            <button type="button" class="btn btn-primary">加入購物車</button>
+            <button type="button" class="btn warming">開始課程</button>
+          </div>
+        </div>
+
+      </div>
+
+      <div class="col-sm-3 ">
+        <div class="d-flex justify-content-center mt-3" style="  ">
+          <div class="outer">
+            <div class="outer_mask">
+            <div class="card-img-top  bg-4 " style="width:220px; height: 220px; border-radius:110px ;"></div>
+          </div>
+          </div>
+        </div>
+
+
+        <div class="card-body text-center">
+          <h5 class="card-title  mt-2"><b>文法與字彙</b></h5>
+          <p class="card-text mb-5" style="height:100px">系統性學習英語文法，搭配互動式練習，讓學生脫離枯燥的教條式學習，清楚瞭解英語文法邏輯與概念。</p>
+          <h4 class="">$888</h4>
+          <div class="btn-group btn-group-sm mt-3" role="group" aria-label="Basic example">
+            <button type="button" class="btn warming">課程介紹</button>
+            <button type="button" class="btn btn-primary">加入購物車</button>
+            <button type="button" class="btn warming">開始課程</button>
+          </div>
+        </div>
+
+      </div>
+
+    </div>
+
+    <div class="row mt-5  ">
+
+
+    </div>
+
+
+
+  </div>
+
+<script>
+  
+
+</script>
+
+</body>
+
+</html>
