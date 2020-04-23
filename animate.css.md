@@ -1,7 +1,7 @@
 
-<h1>Animate.css說明翻譯<h1>
+<h1>Animate.css說明翻譯+WOW.js使用滑鼠移到該位置才開始動畫<h1>
   
- <h3>Usage</h3>
+ <h3>Animate Usage</h3>
 <p>To use animate.css in your website, simply drop the stylesheet into your document's <head>, and add the class animated to an element, along with any of the animation names. That's it! You've got a CSS animated element. Super!</p>
   
 
@@ -19,6 +19,12 @@
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.2/animate.min.css">
 </head>
 ```
+
+ <h3>WOW.js Usage</h3>
+ <a>https://github.com/graingert/WOW</a>
+
+
+
 
 <h3>Animations</h3>
 <p>To animate an element, add the class animated to an element. You can include the class infinite for an infinite loop. Finally you need to add one of the following classes to the element:</p>
