@@ -23,7 +23,7 @@
  <h3>WOW.js Usage</h3>
  
 [WOW.js github](https://github.com/graingert/WOW)
-NPM
+<p<NPM</p>
 ```html
 
    npm install wow.js
