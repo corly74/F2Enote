@@ -54,7 +54,11 @@ var wow = new WOW(
 );
 wow.init();
 ```
-
+<h3>wow.js 進階設定</h3>
+<data-wow-duration: 突現秒數
+data-wow-delay: 遲延秒數
+data-wow-offset: 位移
+data-wow-iteration: 重複次數(要一直重複的話可以用"infinite")</p>
 
 
 <h3>Animations</h3>
@@ -67,3 +71,4 @@ Class Name    |         |        |           |
  彈跳 | 閃爍    |放大再縮小原樣(上下)   | rubberBand:放大再縮小原樣(左右)
 `wobble` | `jello` |`bounceIn`|`bounceInDown`
 大力搖晃 | 果凍搖晃    |微彈跳   | 彈跳(從上往下跳)
+>
