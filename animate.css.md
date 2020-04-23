@@ -27,5 +27,5 @@
 Class Name    |         |        |           |
 ------------  | ------- | ------ | ----------
 `bounce`      | `flash` |`pulse` | `rubberBand`
-`Castle Age    | 02:40 |800   | 200 
+ 彈跳         | 閃爍    |放大再縮小原樣(上下)   | rubberBand:放大再縮小原樣(左右)
 Imperial Age  | 03:30 |1000  | 800 
