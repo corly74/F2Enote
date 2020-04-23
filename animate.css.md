@@ -8,5 +8,5 @@
 ```html
     <head>
   <link rel="stylesheet" href="animate.min.css">
-</head>
-    ```
+</head> ```
+   
