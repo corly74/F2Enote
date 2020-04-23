@@ -29,7 +29,8 @@
  <h3>WOW.js Usage</h3>
  
 [WOW.js github](https://github.com/graingert/WOW)
-<p<NPM</p>
+
+<p>NPM</p>
 
 ```html
 
