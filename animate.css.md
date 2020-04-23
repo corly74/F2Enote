@@ -21,7 +21,9 @@
 ```
 
  <h3>WOW.js Usage</h3>
- <a>https://github.com/graingert/WOW</a>
+ 
+[WOW.js github](https://github.com/graingert/WOW)
+
 
 
 
