@@ -30,11 +30,13 @@
  
 [WOW.js github](https://github.com/graingert/WOW)
 <p<NPM</p>
+
 ```html
 
    npm install wow.js
 ```
 <p>在body前面貼上以下js<p/>
+
 ```js
 var wow = new WOW({
       boxClass: 'wow',
