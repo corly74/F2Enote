@@ -78,3 +78,8 @@ https://unsplash.com/s/photos/jewelry
 
 線上Framkwork mobile
 http://jqmdesigner.appspot.com/
+
+[十分鐘學習] Hover.css - 強化系游標移入動畫效果
+https://ithelp.ithome.com.tw/articles/10196535
+Hover.css v2
+https://ianlunn.github.io/Hover/
