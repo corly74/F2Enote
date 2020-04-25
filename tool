@@ -87,3 +87,5 @@ https://ianlunn.github.io/Hover/
 卡片輪播
 https://owlcarousel2.github.io/OwlCarousel2/
 https://www.wfublog.com/2016/04/owl-carousel-jquery-slider-cdn.html
+http://www.htmleaf.com/jQuery/Slideshow-Scroller/201801064917.html
+https://codepen.io/khadkamhn/pen/RxVKXP
