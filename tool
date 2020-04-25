@@ -83,3 +83,7 @@ http://jqmdesigner.appspot.com/
 https://ithelp.ithome.com.tw/articles/10196535
 Hover.css v2
 https://ianlunn.github.io/Hover/
+
+卡片輪播
+https://owlcarousel2.github.io/OwlCarousel2/
+https://www.wfublog.com/2016/04/owl-carousel-jquery-slider-cdn.html
