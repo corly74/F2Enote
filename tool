@@ -89,3 +89,6 @@ https://owlcarousel2.github.io/OwlCarousel2/
 https://www.wfublog.com/2016/04/owl-carousel-jquery-slider-cdn.html
 http://www.htmleaf.com/jQuery/Slideshow-Scroller/201801064917.html
 https://codepen.io/khadkamhn/pen/RxVKXP
+
+卡片輪播套件
+https://swiperjs.com/
